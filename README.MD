@@ -1,6 +1,8 @@
 
 # LogitechGHub-Historical
-### Description: Historical downloads for Logitech G Hub
+###  Description: Historical downloads for Logitech G Hub
+###  Last updated: 11/19/2023
+
 
 |Year|# of versions|
 |--|--|
